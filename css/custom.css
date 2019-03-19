@@ -1,19 +1,19 @@
 .hero-image {
-background: url(images/custom/hero.jpeg);
+background: url(/images/custom/hero.jpeg);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
 }
 
 #hero-2 {
-    background: url(images/custom/hero-2.jpeg);
+    background: url(/images/custom/hero-2.jpeg);
     background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #hero-3 {
-    background: url(images/custom/hero-3.jpeg);
+    background: url(/images/custom/hero-3.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
