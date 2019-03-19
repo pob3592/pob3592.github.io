@@ -1,5 +1,5 @@
 .hero-image {
-background: url(/images/custom/hero.jpeg);
+background: url('images/custom/hero.jpeg');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
