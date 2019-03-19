@@ -1,0 +1,39 @@
+.hero-image {
+background: url(images/custom/hero.jpeg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#hero-2 {
+    background: url(images/custom/hero-2.jpeg);
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hero-3 {
+    background: url(images/custom/hero-3.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+    .tablet-right {
+        text-align: right !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .tablet-center {
+        text-align: center !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .replicable-content {
+        padding-top: 8rem !important;
+        padding-bottom 8rem !important;
+    }
+}
